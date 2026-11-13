@@ -1,0 +1,12 @@
+.card {
+  background-color: var(--bg);
+  max-width: 250px;
+  width: 100%;
+  color: #fff;
+  box-shadow: var(--shadow);
+  border: 2px #fff solid;
+  padding: 20px;
+}
+.card_img {
+  width: 250px;
+}

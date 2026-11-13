@@ -1,0 +1,19 @@
+.detailCard {
+  background-color: var(--bg);
+  color: #fff;
+  text-align: start;
+  padding: 20px;
+}
+.detailCard_banner {
+  max-width: 70%;
+}
+.detailCard_description {
+  max-width: 60%;
+}
+.detailCard_director {
+  font-size: 18px;
+}
+.detailCard_back {
+  text-decoration: none;
+  color: #fff;
+}
